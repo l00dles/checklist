@@ -2,7 +2,7 @@
 title: "Daily Checklist"
 output:
   html_document:
-    self_contained: false
+    self_contained: true
 ---
 
 # Day-by-Day Checklist
