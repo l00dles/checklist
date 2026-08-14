@@ -16,10 +16,11 @@ move straight to the next unchecked item rather than waiting.
 ---
 
 ## Week 1 · 11–16 Aug — Discussion: descriptive/contextual findings
-- [ ] **Fri 14 Aug:** Unstick 2.1 — time block 2hr, no rereading, target ~300w;<br>
-                      Rough-draft 2.2 (bullying prevalence) + 2.3 (perceived social support), ~600w;<br>
-                      Rough-draft 2.4 (IPD in sample) + 2.5 (TSI in sample), ~550w<br>
-- [ ] **Sat 15 Aug:** OFF<br>
+**Fri 14 Aug:**<br>
+- [ ] Unstick 2.1 — time block 2hr, no rereading, target ~300w;<br>
+- [ ] Rough-draft 2.2 (bullying prevalence) + 2.3 (perceived social support), ~600w;<br>
+- [ ] Rough-draft 2.4 (IPD in sample) + 2.5 (TSI in sample), ~550w<br>
+**Sat 15 Aug:** OFF<br>
 - [ ] **Sun 16 Aug:** Weekly catch-up;<br>
                       Rough-draft §3 (constructs & measurement theory), ~650w. Dense section — expect it to fill the day<br>
 
