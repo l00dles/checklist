@@ -16,151 +16,151 @@ move straight to the next unchecked item rather than waiting.
 ---
 
 ## Week 1 · 11–16 Aug — Discussion: descriptive/contextual findings
-- [ ] **Fri 14 Aug:** Unstick 2.1 — time block 2hr, no rereading, target ~300w;
-                      Rough-draft 2.2 (bullying prevalence) + 2.3 (perceived social support), ~600w;
-                      Rough-draft 2.4 (IPD in sample) + 2.5 (TSI in sample), ~550w
-- [ ] **Sat 15 Aug:** OFF
-- [ ] **Sun 16 Aug:** Weekly catch-up;
-                      Rough-draft §3 (constructs & measurement theory), ~650w. Dense section — expect it to fill the day
+- [ ] **Fri 14 Aug:** Unstick 2.1 — time block 2hr, no rereading, target ~300w;<br>
+                      Rough-draft 2.2 (bullying prevalence) + 2.3 (perceived social support), ~600w;<br>
+                      Rough-draft 2.4 (IPD in sample) + 2.5 (TSI in sample), ~550w<br>
+- [ ] **Sat 15 Aug:** OFF<br>
+- [ ] **Sun 16 Aug:** Weekly catch-up;<br>
+                      Rough-draft §3 (constructs & measurement theory), ~650w. Dense section — expect it to fill the day<br>
 
 ## Week 2 · 17–23 Aug — Discussion: direct & indirect effects
-- [ ] **Mon 17 Aug:** Rough-draft §4 intro + 4.1 (H1&H2: adversity erodes PSS), ~600w;
-                      Writing centre appointments; 
-                      Email Colin (propose sending Methods+Results in ~2 weeks); 
-                      Email supervisor a heads-up that Discussion is coming in ~3 weeks.
-- [ ] **Tue 18 Aug:** Rough-draft 4.2 (bullying as dominant predictor of IPD — key finding), ~450w
-- [ ] **Wed 19 Aug:** Rough-draft 4.3 (ACEs' modest direct effect on IPD), ~400w
-- [ ] **Thu 20 Aug:** Rough-draft 4.4 (PSS's limited protective role) + 4.5 (ACEs/bullying → TSI), ~600w
-- [ ] **Fri 21 Aug:** Rough-draft 4.6 (H5b not supported), ~350w. → §4 done
-- [ ] **Sat 22 Aug:** Rough-draft §5 intro + 5.1 (PSS as partial mediator), ~650w
-- [ ] **Sun 23 Aug:** Rough-draft 5.2 (no PSS mediation in TSI pathways) + 5.3 (integrative interpretation), ~700w. → §5 done
+- [ ] **Mon 17 Aug:** Rough-draft §4 intro + 4.1 (H1&H2: adversity erodes PSS), ~600w;<br>
+                      Writing centre appointments; <br>
+                      Email Colin (propose sending Methods+Results in ~2 weeks); <br>
+                      Email supervisor a heads-up that Discussion is coming in ~3 weeks.<br>
+- [ ] **Tue 18 Aug:** Rough-draft 4.2 (bullying as dominant predictor of IPD — key finding), ~450w<br>
+- [ ] **Wed 19 Aug:** Rough-draft 4.3 (ACEs' modest direct effect on IPD), ~400w<br>
+- [ ] **Thu 20 Aug:** Rough-draft 4.4 (PSS's limited protective role) + 4.5 (ACEs/bullying → TSI), ~600w<br>
+- [ ] **Fri 21 Aug:** Rough-draft 4.6 (H5b not supported), ~350w. → §4 done<br>
+- [ ] **Sat 22 Aug:** Rough-draft §5 intro + 5.1 (PSS as partial mediator), ~650w<br>
+- [ ] **Sun 23 Aug:** Rough-draft 5.2 (no PSS mediation in TSI pathways) + 5.3 (integrative interpretation), ~700w. → §5 done<br>
 
 ## Week 3 · 24–30 Aug — Discussion: model-level, demographic, synthesis; rough draft complete; editing begins
-- [ ] **Mon 24 Aug:** Rough-draft §6 (model-level findings, 6.1–6.3), ~1,100w
-- [ ] **Tue 25 Aug:** Rough-draft §7 intro + demographic findings 7.1–7.3, ~1,150w. Take extra care with 7.2 (sociohistorical framing) — don't rush the sourcing
-- [ ] **Wed 26 Aug:** Rough-draft §8 (whole-chapter synthesis), ~800w
-- [ ] **Thu 27 Aug:** Rough-draft §9 (implications: theoretical, practical/clinical, methodological), ~1,250w
-- [ ] **Fri 28 Aug:** Rough-draft §10 (strengths & limitations) + §11 (future research) + §12 (conclusion), ~1,550w → **Full rough draft complete.**
-- [ ] **Sat 29 Aug:** Begin editing pass from the top (§2.1 onward) — flow, citations, hypothesis-linkage. Get as far as you can
-- [ ] **Sun 30 Aug:** OFF
+- [ ] **Mon 24 Aug:** Rough-draft §6 (model-level findings, 6.1–6.3), ~1,100w<br>
+- [ ] **Tue 25 Aug:** Rough-draft §7 intro + demographic findings 7.1–7.3, ~1,150w. Take extra care with 7.2 (sociohistorical framing) — don't rush the sourcing<br>
+- [ ] **Wed 26 Aug:** Rough-draft §8 (whole-chapter synthesis), ~800w<br>
+- [ ] **Thu 27 Aug:** Rough-draft §9 (implications: theoretical, practical/clinical, methodological), ~1,250w<br>
+- [ ] **Fri 28 Aug:** Rough-draft §10 (strengths & limitations) + §11 (future research) + §12 (conclusion), ~1,550w → **Full rough draft complete.**<br>
+- [ ] **Sat 29 Aug:** Begin editing pass from the top (§2.1 onward) — flow, citations, hypothesis-linkage. Get as far as you can<br>
+- [ ] **Sun 30 Aug:** OFF<br>
 
 ## Week 4 · 31 Aug–6 Sep — Discussion to first draft; sent to supervisor
-- [ ] **Mon 31 Aug:** Continue editing pass (§2–5 area)
-- [ ] **Tue 1 Sep:** Continue editing pass (§6–9 area)
-- [ ] **Wed 2 Sep:** Finish editing (§10–12), final read-through. **Send Discussion to Siyabulela today** — supervisor clock starts. Send Methods + Results to Colin
-- [ ] **Thu 3 Sep:** No idle time — begin implementing pending feedback: Introduction
-- [ ] **Fri 4 Sep:** Continue Introduction feedback
-- [ ] **Sat 5 Sep:** Begin Aims & Hypotheses feedback
-- [ ] **Sun 6 Sep:** OFF
+- [ ] **Mon 31 Aug:** Continue editing pass (§2–5 area)<br>
+- [ ] **Tue 1 Sep:** Continue editing pass (§6–9 area)<br>
+- [ ] **Wed 2 Sep:** Finish editing (§10–12), final read-through. **Send Discussion to Siyabulela today** — supervisor clock starts. Send Methods + Results to Colin<br>
+- [ ] **Thu 3 Sep:** No idle time — begin implementing pending feedback: Introduction<br>
+- [ ] **Fri 4 Sep:** Continue Introduction feedback<br>
+- [ ] **Sat 5 Sep:** Begin Aims & Hypotheses feedback<br>
+- [ ] **Sun 6 Sep:** OFF<br>
 
 ## Week 5 · 7–13 Sep — Other chapters: Aims & Hypotheses, Literature Review
-- [ ] **Mon 7 Sep:** Finish Aims & Hypotheses feedback; begin Literature Review feedback
-- [ ] **Tue 8 Sep:** Literature Review feedback (this chapter is your largest — budget several days)
-- [ ] **Wed 9 Sep:** Literature Review feedback, continued
-- [ ] **Thu 10 Sep:** Literature Review feedback, continued
-- [ ] **Fri 11 Sep:** Literature Review feedback — wrap up, or get ahead on Methods if finished
-- [ ] **Sat 12 Sep:** Begin Methods feedback implementation
-- [ ] **Sun 13 Sep:** OFF (scheduled)
+- [ ] **Mon 7 Sep:** Finish Aims & Hypotheses feedback; begin Literature Review feedback<br>
+- [ ] **Tue 8 Sep:** Literature Review feedback (this chapter is your largest — budget several days)<br>
+- [ ] **Wed 9 Sep:** Literature Review feedback, continued<br>
+- [ ] **Thu 10 Sep:** Literature Review feedback, continued<br>
+- [ ] **Fri 11 Sep:** Literature Review feedback — wrap up, or get ahead on Methods if finished<br>
+- [ ] **Sat 12 Sep:** Begin Methods feedback implementation<br>
+- [ ] **Sun 13 Sep:** OFF (scheduled)<br>
 
 ## Week 6 · 14–20 Sep — Other chapters: Methods, Results; first supervisor check-in
-- [ ] **Mon 14 Sep:** Methods feedback, continued
-- [ ] **Tue 15 Sep:** Methods feedback — wrap up; begin Results feedback
-- [ ] **Wed 16 Sep:** *(flex)* 10-working-day mark since Discussion was sent. If Siyabulela is silent, send one brief follow-up. Continue Results feedback either way
-- [ ] **Thu 17 Sep:** Results feedback, continued — fold in Colin's input if it's arrived
-- [ ] **Fri 18 Sep:** Results feedback — wrap up
-- [ ] **Sat 19 Sep:** Catch-up/buffer day — finish anything outstanding from the week
-- [ ] **Sun 20 Sep:** OFF
+- [ ] **Mon 14 Sep:** Methods feedback, continued<br>
+- [ ] **Tue 15 Sep:** Methods feedback — wrap up; begin Results feedback<br>
+- [ ] **Wed 16 Sep:** *(flex)* 10-working-day mark since Discussion was sent. If Siyabulela is silent, send one brief follow-up. Continue Results feedback either way<br>
+- [ ] **Thu 17 Sep:** Results feedback, continued — fold in Colin's input if it's arrived<br>
+- [ ] **Fri 18 Sep:** Results feedback — wrap up<br>
+- [ ] **Sat 19 Sep:** Catch-up/buffer day — finish anything outstanding from the week<br>
+- [ ] **Sun 20 Sep:** OFF<br>
 
 ## Week 7 · 21–27 Sep — Integrate feedback; writing centre
-- [ ] **Mon 21 Sep:** *(flex)* If supervisor feedback has arrived, begin integrating it into Discussion. If not, continue general refinement on already-edited chapters
-- [ ] **Tue 22 Sep:** Continue integration/refinement
-- [ ] **Wed 23 Sep:** *(flex)* Writing centre appointment — technical/Results, if scheduled for this window
-- [ ] **Thu 24 Sep:** Integrate writing centre feedback from that session
-- [ ] **Fri 25 Sep:** *(flex)* Writing centre appointment — general/Discussion & Lit Review, if scheduled
-- [ ] **Sat 26 Sep:** Integrate writing centre feedback
-- [ ] **Sun 27 Sep:** OFF
+- [ ] **Mon 21 Sep:** *(flex)* If supervisor feedback has arrived, begin integrating it into Discussion. If not, continue general refinement on already-edited chapters<br>
+- [ ] **Tue 22 Sep:** Continue integration/refinement<br>
+- [ ] **Wed 23 Sep:** *(flex)* Writing centre appointment — technical/Results, if scheduled for this window<br>
+- [ ] **Thu 24 Sep:** Integrate writing centre feedback from that session<br>
+- [ ] **Fri 25 Sep:** *(flex)* Writing centre appointment — general/Discussion & Lit Review, if scheduled<br>
+- [ ] **Sat 26 Sep:** Integrate writing centre feedback<br>
+- [ ] **Sun 27 Sep:** OFF<br>
 
 ## Week 8 · 28 Sep–4 Oct — Second supervisor check-in; commit to editing service
-- [ ] **Mon 28 Sep:** *(flex)* Second follow-up to supervisor if still silent. Continue refinement regardless
-- [ ] **Tue 29 Sep:** Research/compare professional editing service options
-- [ ] **Wed 30 Sep:** **Decision point: book the professional editing service for an early/mid-November slot.**
-- [ ] **Thu 1 Oct:** Continue refining any chapter not yet at "refined" stage
-- [ ] **Fri 2 Oct:** Continue refining
-- [ ] **Sat 3 Oct:** Continue refining / catch-up buffer
-- [ ] **Sun 4 Oct:** OFF
+- [ ] **Mon 28 Sep:** *(flex)* Second follow-up to supervisor if still silent. Continue refinement regardless<br>
+- [ ] **Tue 29 Sep:** Research/compare professional editing service options<br>
+- [ ] **Wed 30 Sep:** **Decision point: book the professional editing service for an early/mid-November slot.**<br>
+- [ ] **Thu 1 Oct:** Continue refining any chapter not yet at "refined" stage<br>
+- [ ] **Fri 2 Oct:** Continue refining<br>
+- [ ] **Sat 3 Oct:** Continue refining / catch-up buffer<br>
+- [ ] **Sun 4 Oct:** OFF<br>
 
 ## Week 9 · 5–11 Oct — Light week (travel Sat–Sun)
-- [ ] **Mon 5 Oct:** Light task only — proofread one chapter
-- [ ] **Tue 6 Oct:** Light task only — reference list check
-- [ ] **Wed 7 Oct:** Light task only — proofread another chapter
-- [ ] **Thu 8 Oct:** Light task only — formatting/consistency pass
-- [ ] **Fri 9 Oct:** Wrap up loose ends, pack, prepare — no heavy work scheduled
-- [ ] **Sat 10 Oct:** AWAY
-- [ ] **Sun 11 Oct:** AWAY
+- [ ] **Mon 5 Oct:** Light task only — proofread one chapter<br>
+- [ ] **Tue 6 Oct:** Light task only — reference list check<br>
+- [ ] **Wed 7 Oct:** Light task only — proofread another chapter<br>
+- [ ] **Thu 8 Oct:** Light task only — formatting/consistency pass<br>
+- [ ] **Fri 9 Oct:** Wrap up loose ends, pack, prepare — no heavy work scheduled<br>
+- [ ] **Sat 10 Oct:** AWAY<br>
+- [ ] **Sun 11 Oct:** AWAY<br>
 
 ## Week 10 · 12–18 Oct — Consistency check; content-final checkpoint
-- [ ] **Mon 12 Oct:** AWAY (travel day)
-- [ ] **Tue 13 Oct:** Resume. Full consistency check: Lit Review vs Methods vs Results vs Discussion — do they agree with each other?
-- [ ] **Wed 14 Oct:** Consistency check, continued. Address any supervisor comments still outstanding
-- [ ] **Thu 15 Oct:** Consistency check — final touch-ups
-- [ ] **Fri 16 Oct:** Confirm every chapter's feedback has actually been implemented (not just noted)
-- [ ] **Sat 17 Oct:** **Content-final checkpoint** — read through and confirm you're genuinely ready for ITS
-- [ ] **Sun 18 Oct:** OFF
+- [ ] **Mon 12 Oct:** AWAY (travel day)<br>
+- [ ] **Tue 13 Oct:** Resume. Full consistency check: Lit Review vs Methods vs Results vs Discussion — do they agree with each other?<br>
+- [ ] **Wed 14 Oct:** Consistency check, continued. Address any supervisor comments still outstanding<br>
+- [ ] **Thu 15 Oct:** Consistency check — final touch-ups<br>
+- [ ] **Fri 16 Oct:** Confirm every chapter's feedback has actually been implemented (not just noted)<br>
+- [ ] **Sat 17 Oct:** **Content-final checkpoint** — read through and confirm you're genuinely ready for ITS<br>
+- [ ] **Sun 18 Oct:** OFF<br>
 
 ## Week 11 · 19–25 Oct — Intention to Submit; full draft to Colin
-- [ ] **Mon 19 Oct:** **Submit Intention to Submit.** Send the full dissertation to Colin for his comprehensive review — flag the 2–3 week turnaround you need
-- [ ] **Tue 20 Oct:** Self-directed polish — formatting pass
-- [ ] **Wed 21 Oct:** Self-directed polish — transitions/flow pass
-- [ ] **Thu 22 Oct:** Self-directed polish — citation/reference accuracy
-- [ ] **Fri 23 Oct:** Confirm logistics for the professional editing service's November slot
-- [ ] **Sat 24 Oct:** Catch-up/buffer
-- [ ] **Sun 25 Oct:** OFF
+- [ ] **Mon 19 Oct:** **Submit Intention to Submit.** Send the full dissertation to Colin for his comprehensive review — flag the 2–3 week turnaround you need<br>
+- [ ] **Tue 20 Oct:** Self-directed polish — formatting pass<br>
+- [ ] **Wed 21 Oct:** Self-directed polish — transitions/flow pass<br>
+- [ ] **Thu 22 Oct:** Self-directed polish — citation/reference accuracy<br>
+- [ ] **Fri 23 Oct:** Confirm logistics for the professional editing service's November slot<br>
+- [ ] **Sat 24 Oct:** Catch-up/buffer<br>
+- [ ] **Sun 25 Oct:** OFF<br>
 
 ## Week 12 · 26 Oct–1 Nov — Polish while awaiting Colin
-- [ ] **Mon 26 Oct:** Self-directed polish, continued
-- [ ] **Tue 27 Oct:** Self-directed polish, continued
-- [ ] **Wed 28 Oct:** Catch-up/buffer
-- [ ] **Thu 29 Oct:** Self-directed polish, continued
-- [ ] **Fri 30 Oct:** Self-directed polish, continued
-- [ ] **Sat 31 Oct:** Catch-up/buffer
-- [ ] **Sun 1 Nov:** OFF
+- [ ] **Mon 26 Oct:** Self-directed polish, continued<br>
+- [ ] **Tue 27 Oct:** Self-directed polish, continued<br>
+- [ ] **Wed 28 Oct:** Catch-up/buffer<br>
+- [ ] **Thu 29 Oct:** Self-directed polish, continued<br>
+- [ ] **Fri 30 Oct:** Self-directed polish, continued<br>
+- [ ] **Sat 31 Oct:** Catch-up/buffer<br>
+- [ ] **Sun 1 Nov:** OFF<br>
 
 ## Week 13 · 2–8 Nov — Integrate editor's & Colin's feedback
-- [ ] **Mon 2 Nov:** *(flex)* Integrate professional editor's feedback and/or Colin's, whichever lands first
-- [ ] **Tue 3 Nov:** Integration, continued
-- [ ] **Wed 4 Nov:** Integration, continued
-- [ ] **Thu 5 Nov:** Integration, continued
-- [ ] **Fri 6 Nov:** Integration — wrap up
-- [ ] **Sat 7 Nov:** Catch-up/buffer
-- [ ] **Sun 8 Nov:** OFF
+- [ ] **Mon 2 Nov:** *(flex)* Integrate professional editor's feedback and/or Colin's, whichever lands first<br>
+- [ ] **Tue 3 Nov:** Integration, continued<br>
+- [ ] **Wed 4 Nov:** Integration, continued<br>
+- [ ] **Thu 5 Nov:** Integration, continued<br>
+- [ ] **Fri 6 Nov:** Integration — wrap up<br>
+- [ ] **Sat 7 Nov:** Catch-up/buffer<br>
+- [ ] **Sun 8 Nov:** OFF<br>
 
 ## Week 14 · 9–15 Nov — AI-voice pass; hard cutoff
-- [ ] **Mon 9 Nov:** AI-voice pass — Abstract, Ch1 (Intro), Ch2 (Lit Review). Read aloud, re-voice anything that sounds flatter or more uniform than you
-- [ ] **Tue 10 Nov:** AI-voice pass — Ch3 (Methods), Ch4 (Results)
-- [ ] **Wed 11 Nov:** AI-voice pass — Ch5 (Discussion), part 1
-- [ ] **Thu 12 Nov:** AI-voice pass — Ch5 (Discussion), part 2
-- [ ] **Fri 13 Nov:** Integrate any feedback still outstanding
-- [ ] **Sat 14 Nov:** Catch-up/buffer
-- [ ] **Sun 15 Nov:** OFF — **Hard cutoff: nothing arriving after today gets waited on.**
+- [ ] **Mon 9 Nov:** AI-voice pass — Abstract, Ch1 (Intro), Ch2 (Lit Review). Read aloud, re-voice anything that sounds flatter or more uniform than you<br>
+- [ ] **Tue 10 Nov:** AI-voice pass — Ch3 (Methods), Ch4 (Results)<br>
+- [ ] **Wed 11 Nov:** AI-voice pass — Ch5 (Discussion), part 1<br>
+- [ ] **Thu 12 Nov:** AI-voice pass — Ch5 (Discussion), part 2<br>
+- [ ] **Fri 13 Nov:** Integrate any feedback still outstanding<br>
+- [ ] **Sat 14 Nov:** Catch-up/buffer<br>
+- [ ] **Sun 15 Nov:** OFF — **Hard cutoff: nothing arriving after today gets waited on.**<br>
 
 ## Week 15 · 16–22 Nov — Final draft
-- [ ] **Mon 16 Nov:** Final read-through as one continuous document — Abstract, Ch1–2
-- [ ] **Tue 17 Nov:** Final read-through — Ch3–4
-- [ ] **Wed 18 Nov:** Final read-through — Ch5
-- [ ] **Thu 19 Nov:** Reference list — full accuracy and formatting check
-- [ ] **Fri 20 Nov:** Formatting — headings, page numbers, appendices, university template compliance
-- [ ] **Sat 21 Nov:** Catch-up/buffer
-- [ ] **Sun 22 Nov:** OFF
+- [ ] **Mon 16 Nov:** Final read-through as one continuous document — Abstract, Ch1–2<br>
+- [ ] **Tue 17 Nov:** Final read-through — Ch3–4<br>
+- [ ] **Wed 18 Nov:** Final read-through — Ch5<br>
+- [ ] **Thu 19 Nov:** Reference list — full accuracy and formatting check<br>
+- [ ] **Fri 20 Nov:** Formatting — headings, page numbers, appendices, university template compliance<br>
+- [ ] **Sat 21 Nov:** Catch-up/buffer<br>
+- [ ] **Sun 22 Nov:** OFF<br>
 
 ## Week 16 · 23–29 Nov — Final proofread & submission prep
-- [ ] **Mon 23 Nov:** Final proofread, fresh eyes (read aloud) — Ch1–2
-- [ ] **Tue 24 Nov:** Final proofread — Ch3–4
-- [ ] **Wed 25 Nov:** Final proofread — Ch5
-- [ ] **Thu 26 Nov:** Confirm submission portal requirements; prepare all materials
-- [ ] **Fri 27 Nov:** Final check-through — everything in order
-- [ ] **Sat 28 Nov:** Buffer day
-- [ ] **Sun 29 Nov:** OFF
+- [ ] **Mon 23 Nov:** Final proofread, fresh eyes (read aloud) — Ch1–2<br>
+- [ ] **Tue 24 Nov:** Final proofread — Ch3–4<br>
+- [ ] **Wed 25 Nov:** Final proofread — Ch5<br>
+- [ ] **Thu 26 Nov:** Confirm submission portal requirements; prepare all materials<br>
+- [ ] **Fri 27 Nov:** Final check-through — everything in order<br>
+- [ ] **Sat 28 Nov:** Buffer day<br>
+- [ ] **Sun 29 Nov:** OFF<br>
 
-## Mon 30 Nov — **SUBMIT**
+## Mon 30 Nov — **SUBMIT**<br>
 
 <script src="checklist.js"></script>
